@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joan</h1>
-<a href="https://github.com/bomdiaola/bomdiaolaa/blob/main/Joan%20Garcés%20(3).gif" target="_blank" rel="noreferrer"> <img src="https://github.com/bomdiaola/bomdiaolaa/blob/main/Joan%20Garcés%20(3).gif" alt="angular" width="1728" height="864"/>
+<a href="https://github.com/bomdiaola/bomdiaola/blob/main/presentacionGithub.gif" target="_blank" rel="noreferrer"> <img src="https://github.com/bomdiaola/bomdiaola/blob/main/presentacionGithub.gif" alt="angular" width="1728" height="864"/>
 <h3 align="center">I am a learner, student and passionate about programming and technology. I like to create innovative ideas and think new technologies for the future.</h3>
 
 - 📚 I am currently studying **DuocUC**
